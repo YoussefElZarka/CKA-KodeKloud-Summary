@@ -3,7 +3,7 @@
 <h1 align="center">✨ Kubernetes CKA Course Summary ✨</h1>
 
 <p align="center">
-  <img ![K8s Cover](K8S.png) width="80" alt="K8S.png"/>
+   ![K8s Cover](K8S.png) width="80" 
 </p>
 
 <p align="center">
