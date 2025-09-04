@@ -1,9 +1,6 @@
-![K8s Cover](K8S.png)
+
 
 <h1 align="center">✨ Kubernetes CKA Course Summary ✨</h1>
-
-
-![K8s Cover](K8S.png) 
 
 
 <p align="center">
