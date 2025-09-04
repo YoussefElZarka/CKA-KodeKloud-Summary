@@ -1,15 +1,26 @@
 ![K8s Cover](K8S.png)
 
-# 🚀 Kubernetes CKA Course Summary
+<h1 align="center">✨ Kubernetes CKA Course Summary ✨</h1>
 
-Welcome to the **Certified Kubernetes Administrator (CKA) Course Summary** 📘  
-This repository contains a structured summary of all the essential topics you need to prepare for the **CKA Exam**.  
-It’s designed to be a quick reference and a study companion.
+<p align="center">
+  <img src="https://kubernetes.io/images/favicon.png" width="80" alt="Kubernetes Logo"/>
+</p>
+
+<p align="center">
+  ملخص منظم وعملي لشهادة <strong>Certified Kubernetes Administrator (CKA)</strong> 
+  المستند على محتوى <a href="https://kodekloud.com/">KodeKloud</a>.  
+  هدفه يكون مرجع سريع وسهل أثناء المذاكرة أو المراجعة.
+</p>
+
+<p align="center">
+  <a href="./CKA%20Course%20Summary.pdf"><img src="https://img.shields.io/badge/Download-PDF-orange?style=for-the-badge&logo=adobeacrobatreader" /></a>
+  <a href="https://kubernetes.io/docs/"><img src="https://img.shields.io/badge/Kubernetes-Docs-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" /></a>
+</p>
 
 ---
 
 ## 📑 Table of Contents
-
 - [🌐 Core Concepts](#-core-concepts)
 - [📦 Application Lifecycle Management](#-application-lifecycle-management)
 - [🗂️ Scheduling](#️-scheduling)
@@ -32,9 +43,9 @@ It’s designed to be a quick reference and a study companion.
 - ETCD Basics & in Kubernetes  
 - API Server, Controller Manager, Scheduler  
 - Kubelet & Kube Proxy  
-- Pods (YAML, ReplicaSets, Deployments)  
+- Pods, ReplicaSets, Deployments  
 - Namespaces & Resource Quotas  
-- Services (ClusterIP, NodePort, etc.)  
+- Services (ClusterIP, NodePort, LoadBalancer)  
 - Imperative vs Declarative  
 
 ---
@@ -69,7 +80,7 @@ It’s designed to be a quick reference and a study companion.
 ## 🔐 Security
 - Authentication & TLS in Kubernetes  
 - Certificates & API Access  
-- RBAC (Roles, RoleBindings, ClusterRoles)  
+- RBAC (Roles, Bindings, ClusterRoles)  
 - Security Contexts & Image Security  
 - Network Policies  
 
@@ -85,36 +96,36 @@ It’s designed to be a quick reference and a study companion.
 ## 💾 Storage
 - Docker Storage & Volume Drivers  
 - Container Storage Interface (CSI)  
-- Volumes, Persistent Volumes (PV) & Claims (PVC)  
+- Volumes, PVs & PVCs  
 
 ---
 
 ## 🌉 Networking
-- Intro to Networking & Prerequisites (DNS, CNI, etc.)  
+- Networking Basics (DNS, CNI, Docker)  
 - Cluster & Pod Networking  
-- CNI Plugins (Weave, etc.)  
+- CNI Plugins (Weave, Flannel, etc.)  
 - Service Networking & CoreDNS  
 - Ingress Controller  
 
 ---
 
 ## ⚙️ Install K8s the Hard Way
-- Cluster Design & High Availability  
-- ETCD Setup  
-- Control Plane Components & Load Balancer  
-- TLS Bootstrapping & Remote Access  
-- Deploying Pod Networking & CoreDNS  
+- Cluster Design & HA  
+- ETCD & Control Plane Setup  
+- TLS Bootstrapping  
+- Remote Access & Networking  
+- Deploying CoreDNS  
 
 ---
 
 ## ⚡ Install K8s with Kubeadm
-- Introduction & Deployment with Kubeadm  
-- Demo & Hands-on Steps  
+- Quick setup with Kubeadm  
+- Demo deployment  
 
 ---
 
 ## ✅ End-to-End Tests
-- Running Tests with Kubetest  
+- Run & Analyze Tests with Kubetest  
 - Smoke Testing  
 
 ---
@@ -135,14 +146,13 @@ It’s designed to be a quick reference and a study companion.
 ---
 
 ## 📚 Other Topics
-- Advanced Kubectl with JSONPath  
+- Advanced Kubectl (JSONPath Queries)  
 
 ---
 
-## 🎓 Author
-👤 **CKA Summary Maintainer**  
-This repo is maintained as a quick study and revision guide for Kubernetes enthusiasts preparing for the **CKA Exam**.  
+## 🖼️ Diagrams
+لو حابب، حط صور توضيحية في فولدر `assets/` واستدعيها هنا:
 
----
-
-✨ *Contributions are welcome! Feel free to fork, improve, and share knowledge with the community.* ✨
+```markdown
+![Cluster Architecture](assets/cluster-arch.png)
+![Networking Overview](assets/networking.png)
