@@ -1,3 +1,4 @@
+![cluster Arch](assets/cluster arch.png)
 
 
 <h1 align="center">✨ Kubernetes CKA Course Summary ✨</h1>
