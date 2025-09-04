@@ -4,7 +4,8 @@
 
 
 <p align="center">
-A well-organized and practical summary for the <strong>Certified Kubernetes Administrator (CKA)</strong> exam based on <a href="https://kodekloud.com/">KodeKloud</a>. The goal is to serve as a quick and easy reference for study or revision.
+A well-organized and practical summary for the <strong>Certified Kubernetes Administrator (CKA)</strong> exam based on <a href="https://kodekloud.com/">KodeKloud</a>. 
+ The goal is to serve as a quick and easy reference for study or revision.
  
   
 </p>
