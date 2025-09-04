@@ -43,7 +43,8 @@
 - Pods, ReplicaSets, Deployments  
 - Namespaces & Resource Quotas  
 - Services (ClusterIP, NodePort, LoadBalancer)  
-- Imperative vs Declarative  
+- Imperative vs Declarative
+assets/cluster arch.png
 
 ---
 
