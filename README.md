@@ -4,7 +4,8 @@
 
 
 <p align="center">
-A well-organized and practical summary for the <strong>Certified Kubernetes Administrator (CKA)</strong> exam based on <a href="https://kodekloud.com/">KodeKloud</a>. 
+A well-organized and practical summary for the <strong>Certified Kubernetes Administrator (CKA)</strong> exam based on <a href="https://kodekloud.com/">KodeKloud</a>.
+ <p align="center">
  The goal is to serve as a quick and easy reference for study or revision.
  
   
@@ -45,6 +46,7 @@ A well-organized and practical summary for the <strong>Certified Kubernetes Admi
 - Namespaces & Resource Quotas  
 - Services (ClusterIP, NodePort, LoadBalancer)  
 - Imperative vs Declarative
+  
 ![Cluster Architecture](assets/cluster%20arch.png)
 ---
 
@@ -55,6 +57,7 @@ A well-organized and practical summary for the <strong>Certified Kubernetes Admi
 - Environment Variables  
 - ConfigMaps & Secrets  
 - Multi-Container Pods & Init Containers
+  
 ![Rolling Update](assets/rolling%20update.png)
 
 ---
@@ -105,6 +108,7 @@ A well-organized and practical summary for the <strong>Certified Kubernetes Admi
 - CNI Plugins (Weave, Flannel, etc.)  
 - Service Networking & CoreDNS  
 - Ingress Controller
+  
 ![K8s Networking](assets/k8s%20networking.png)
 
 ---
