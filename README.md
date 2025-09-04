@@ -36,6 +36,7 @@ A well-organized and practical summary for the <strong>Certified Kubernetes Admi
 ---
 
 ## 🌐 Core Concepts
+![Cluster Architecture](assets/cluster%20arch.png)
 - Cluster Architecture  
 - ETCD Basics & in Kubernetes  
 - API Server, Controller Manager, Scheduler  
