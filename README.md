@@ -36,6 +36,7 @@
 ---
 
 ## 🌐 Core Concepts
+![Cluster Architecture](assets/cluster arch.png)
 - Cluster Architecture  
 - ETCD Basics & in Kubernetes  
 - API Server, Controller Manager, Scheduler  
@@ -44,7 +45,6 @@
 - Namespaces & Resource Quotas  
 - Services (ClusterIP, NodePort, LoadBalancer)  
 - Imperative vs Declarative
-assets/cluster arch.png
 
 ---
 
