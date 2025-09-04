@@ -1,4 +1,4 @@
-- ![cluster Arch](assets/cluster-arch.png)
+
 
 
 
@@ -6,9 +6,10 @@
 
 
 <p align="center">
-  ملخص منظم وعملي لشهادة <strong>Certified Kubernetes Administrator (CKA)</strong> 
-  المستند على محتوى <a href="https://kodekloud.com/">KodeKloud</a>.  
-  هدفه يكون مرجع سريع وسهل أثناء المذاكرة أو المراجعة.
+A well-organized and practical summary for the <strong>Certified Kubernetes Administrator (CKA)</strong> exam based on <a href="https://kodekloud.com/">KodeKloud</a>. The goal is to serve as a quick and easy reference for study or revision.
+ <strong>Certified Kubernetes Administrator (CKA)</strong> 
+  <a href="https://kodekloud.com/">KodeKloud</a>.  
+  
 </p>
 
 <p align="center">
@@ -38,7 +39,6 @@
 ---
 
 ## 🌐 Core Concepts
-assets/cluster arch.png
 - Cluster Architecture  
 - ETCD Basics & in Kubernetes  
 - API Server, Controller Manager, Scheduler  
