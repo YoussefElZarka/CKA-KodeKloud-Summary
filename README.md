@@ -1,22 +1,13 @@
-<h1 align="center">✨ Kubernetes CKA Course Summary ✨</h1>
+# 🚀 Kubernetes CKA Course Summary
 
-
-<p align="center">
-  <b>Welcome to the **Certified Kubernetes Administrator (CKA) Course Summary** 📘
+Welcome to the **Certified Kubernetes Administrator (CKA) Course Summary** 📘  
 This repository contains a structured summary of all the essential topics you need to prepare for the **CKA Exam**.  
 It’s designed to be a quick reference and a study companion.
-  </b><br/>
-  Quick reference • Hands-on guide • Exam-ready notes
-</p>
-
-<p align="center">
-  <a href="https://kubernetes.io/docs/"><img src="https://img.shields.io/badge/Kubernetes-Documentation-326CE5?style=flat&logo=kubernetes&logoColor=white" /></a>
-  <a href="https://github.com/your-username/cka-course-summary/stargazers"><img src="https://img.shields.io/github/stars/your-username/cka-course-summary?style=social" /></a>
-</p>
 
 ---
 
 ## 📑 Table of Contents
+
 - [🌐 Core Concepts](#-core-concepts)
 - [📦 Application Lifecycle Management](#-application-lifecycle-management)
 - [🗂️ Scheduling](#️-scheduling)
@@ -35,25 +26,21 @@ It’s designed to be a quick reference and a study companion.
 ---
 
 ## 🌐 Core Concepts
-> 📘 The foundation of Kubernetes — understand the cluster and its moving parts.
 - Cluster Architecture  
-- ETCD (Basics + In Kubernetes)  
+- ETCD Basics & in Kubernetes  
 - API Server, Controller Manager, Scheduler  
 - Kubelet & Kube Proxy  
-- Pods, ReplicaSets, Deployments  
+- Pods (YAML, ReplicaSets, Deployments)  
 - Namespaces & Resource Quotas  
-- Services (ClusterIP, NodePort, LoadBalancer)  
+- Services (ClusterIP, NodePort, etc.)  
 - Imperative vs Declarative  
-
-![Core Concepts](https://kubernetes.io/images/kubeadm-stacked-color.png)
 
 ---
 
 ## 📦 Application Lifecycle Management
-> ⚙️ Manage how your apps are deployed, configured, and updated.
 - Rolling Updates & Rollbacks  
 - Docker Entrypoint & CMD  
-- Commands & Args in K8s  
+- Commands & Args in Kubernetes  
 - Environment Variables  
 - ConfigMaps & Secrets  
 - Multi-Container Pods & Init Containers  
@@ -61,7 +48,6 @@ It’s designed to be a quick reference and a study companion.
 ---
 
 ## 🗂️ Scheduling
-> 🎯 Control **where** and **how** workloads run inside the cluster.
 - Manual Scheduling  
 - Labels & Selectors  
 - Taints, Tolerations & Affinity  
@@ -72,22 +58,18 @@ It’s designed to be a quick reference and a study companion.
 ---
 
 ## 📊 Logging & Monitoring
-> 🔍 Stay informed about your cluster’s health.
-- Monitor Cluster Components  
-- Check Status & Logs  
-- Manage Application Logs  
+- Monitoring Cluster Components  
+- Checking Status & Logs  
+- Managing Application Logs  
 
 ---
 
 ## 🔐 Security
-> 🛡️ Secure your cluster at every layer.
 - Authentication & TLS in Kubernetes  
 - Certificates & API Access  
-- RBAC (Roles, Bindings, ClusterRoles)  
+- RBAC (Roles, RoleBindings, ClusterRoles)  
 - Security Contexts & Image Security  
 - Network Policies  
-
-![Security](https://raw.githubusercontent.com/kubernetes/community/master/icons/png/security.png)
 
 ---
 
@@ -101,38 +83,36 @@ It’s designed to be a quick reference and a study companion.
 ## 💾 Storage
 - Docker Storage & Volume Drivers  
 - Container Storage Interface (CSI)  
-- Volumes, PVs & PVCs  
+- Volumes, Persistent Volumes (PV) & Claims (PVC)  
 
 ---
 
 ## 🌉 Networking
-- Networking Basics (DNS, CNI, Docker)  
+- Intro to Networking & Prerequisites (DNS, CNI, etc.)  
 - Cluster & Pod Networking  
-- CNI Plugins (Weave, Flannel, etc.)  
+- CNI Plugins (Weave, etc.)  
 - Service Networking & CoreDNS  
 - Ingress Controller  
-
-![Networking](https://miro.medium.com/v2/resize:fit:1000/format:webp/1*H2dBN3U5WZUJzV9oCeF8gw.png)
 
 ---
 
 ## ⚙️ Install K8s the Hard Way
-- Cluster Design & HA  
-- ETCD & Control Plane Setup  
-- TLS Bootstrapping  
-- Remote Access & Networking  
-- Deploying CoreDNS  
+- Cluster Design & High Availability  
+- ETCD Setup  
+- Control Plane Components & Load Balancer  
+- TLS Bootstrapping & Remote Access  
+- Deploying Pod Networking & CoreDNS  
 
 ---
 
 ## ⚡ Install K8s with Kubeadm
-- Quick setup with Kubeadm  
-- Demo deployment  
+- Introduction & Deployment with Kubeadm  
+- Demo & Hands-on Steps  
 
 ---
 
 ## ✅ End-to-End Tests
-- Run & Analyze Tests with Kubetest  
+- Running Tests with Kubetest  
 - Smoke Testing  
 
 ---
@@ -153,15 +133,14 @@ It’s designed to be a quick reference and a study companion.
 ---
 
 ## 📚 Other Topics
-- Advanced Kubectl (JSONPath Queries)  
+- Advanced Kubectl with JSONPath  
 
 ---
 
-## 👨‍💻 Author
-Maintained with ❤️ for all Kubernetes enthusiasts preparing for the **CKA & CKAD exams**.  
+## 🎓 Author
+👤 **CKA Summary Maintainer**  
+This repo is maintained as a quick study and revision guide for Kubernetes enthusiasts preparing for the **CKA Exam**.  
 
-📌 Contributions welcome → Fork, add notes, diagrams, or examples!  
+---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Happy Learning-💙-blue" />
-</p>
+✨ *Contributions are welcome! Feel free to fork, improve, and share knowledge with the community.* ✨
