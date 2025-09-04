@@ -2,9 +2,9 @@
 
 <h1 align="center">✨ Kubernetes CKA Course Summary ✨</h1>
 
-<p align="center">
-   ![K8s Cover](K8S.png) width="80" 
-</p>
+
+![K8s Cover](K8S.png) 
+
 
 <p align="center">
   ملخص منظم وعملي لشهادة <strong>Certified Kubernetes Administrator (CKA)</strong> 
