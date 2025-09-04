@@ -7,11 +7,6 @@ A concise and practical summary of the <strong>Certified Kubernetes Administrato
 </p>
 
 
-<p align="center">
-A well-organized and practical summary for the <strong>Certified Kubernetes Administrator (CKA)</strong> exam based on <a href="https://kodekloud.com/">KodeKloud</a>.
- <p align="center">
- The goal is to serve as a quick and easy reference for study or revision.
-
  > ⚠️ **Important:** The PDF version of this course summary contains **all concepts in full detail** and is highly recommended for comprehensive study.
 
   
