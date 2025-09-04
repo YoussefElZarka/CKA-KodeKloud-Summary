@@ -2,6 +2,10 @@
 
 <h1 align="center">✨ Kubernetes CKA Course Summary ✨</h1>
 
+<p align="center">
+A concise and practical summary of the <strong>Certified Kubernetes Administrator (CKA)</strong> exam based on <a href="https://kodekloud.com/">KodeKloud</a>, designed to serve as a quick reference for study or revision. This repository organizes concepts, diagrams, and examples in a clear and structured manner.
+</p>
+
 
 <p align="center">
 A well-organized and practical summary for the <strong>Certified Kubernetes Administrator (CKA)</strong> exam based on <a href="https://kodekloud.com/">KodeKloud</a>.
