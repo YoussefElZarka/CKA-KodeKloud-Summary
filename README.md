@@ -2,7 +2,10 @@
 
 
 <p align="center">
-  <b>A beautifully structured summary for the Certified Kubernetes Administrator (CKA) exam.</b><br/>
+  <b>Welcome to the **Certified Kubernetes Administrator (CKA) Course Summary** 📘
+This repository contains a structured summary of all the essential topics you need to prepare for the **CKA Exam**.  
+It’s designed to be a quick reference and a study companion.
+  </b><br/>
   Quick reference • Hands-on guide • Exam-ready notes
 </p>
 
