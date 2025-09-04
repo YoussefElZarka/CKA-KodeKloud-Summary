@@ -1,3 +1,5 @@
+![K8s Cover](K8S.png)
+
 # 🚀 Kubernetes CKA Course Summary
 
 Welcome to the **Certified Kubernetes Administrator (CKA) Course Summary** 📘  
