@@ -36,7 +36,6 @@ A well-organized and practical summary for the <strong>Certified Kubernetes Admi
 ---
 
 ## 🌐 Core Concepts
-![Cluster Architecture](assets/cluster%20arch.png)
 - Cluster Architecture  
 - ETCD Basics & in Kubernetes  
 - API Server, Controller Manager, Scheduler  
@@ -45,7 +44,7 @@ A well-organized and practical summary for the <strong>Certified Kubernetes Admi
 - Namespaces & Resource Quotas  
 - Services (ClusterIP, NodePort, LoadBalancer)  
 - Imperative vs Declarative
-
+![Cluster Architecture](assets/cluster%20arch.png)
 ---
 
 ## 📦 Application Lifecycle Management
@@ -54,7 +53,8 @@ A well-organized and practical summary for the <strong>Certified Kubernetes Admi
 - Commands & Args in Kubernetes  
 - Environment Variables  
 - ConfigMaps & Secrets  
-- Multi-Container Pods & Init Containers  
+- Multi-Container Pods & Init Containers
+![Rolling Update](assets/rolling%20update.png)
 
 ---
 
@@ -103,7 +103,8 @@ A well-organized and practical summary for the <strong>Certified Kubernetes Admi
 - Cluster & Pod Networking  
 - CNI Plugins (Weave, Flannel, etc.)  
 - Service Networking & CoreDNS  
-- Ingress Controller  
+- Ingress Controller
+![K8s Networking](assets/k8s%20networking.png)
 
 ---
 
@@ -145,12 +146,3 @@ A well-organized and practical summary for the <strong>Certified Kubernetes Admi
 
 ## 📚 Other Topics
 - Advanced Kubectl (JSONPath Queries)  
-
----
-
-## 🖼️ Diagrams
-لو حابب، حط صور توضيحية في فولدر `assets/` واستدعيها هنا:
-
-```markdown
-![Cluster Architecture](assets/cluster-arch.png)
-![Networking Overview](assets/networking.png)
