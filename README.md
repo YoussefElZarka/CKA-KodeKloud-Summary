@@ -1,8 +1,5 @@
 <h1 align="center">✨ Kubernetes CKA Course Summary ✨</h1>
 
-<p align="center">
-  <img src="https://kubernetes.io/images/favicon.png" width="80" alt="Kubernetes Logo"/>
-</p>
 
 <p align="center">
   <b>A beautifully structured summary for the Certified Kubernetes Administrator (CKA) exam.</b><br/>
