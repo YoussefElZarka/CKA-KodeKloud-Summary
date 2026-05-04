@@ -25,9 +25,9 @@ It provides a structured and easy-to-navigate reference for Kubernetes administr
 ## 📑 Table of Contents
 
 - [🌐 Core Concepts](cka-helm-istio/core-concepts.md)
-- [📦 Application Lifecycle Management](cka-helm-istio/application-lifecycle-management)
-- [🗂️ Scheduling](cka-helm-istio/scheduling)
-- [📊 Logging & Monitoring](cka-helm-istio/logging--monitoring)
+- [📦 Application Lifecycle Management](cka-helm-istio/application-lifecycle-management.md)
+- [🗂️ Scheduling](cka-helm-istio/scheduling.md)
+- [📊 Logging & Monitoring](cka-helm-istio/logging--monitoring.md)
 - [🔐 Security](cka-helm-istio/security)
 - [🛠️ Cluster Maintenance](cka-helm-istio/cluster-maintenance)
 - [💾 Storage](cka-helm-istio/storage)
