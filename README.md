@@ -35,9 +35,9 @@ It provides a structured and easy-to-navigate reference for Kubernetes administr
 - [⚙️ Install K8s the Hard Way](cka-helm-istio/install-k8s-the-hard-way.md)
 - [⚡ Install K8s with Kubeadm](cka-helm-istio/install-k8s-with-kubeadm.md)
 - [✅ End-to-End Tests](cka-helm-istio/end-to-end-tests.md)
-- [🩺 Troubleshooting](cka-helm-istio/troubleshooting)
+- [🩺 Troubleshooting](cka-helm-istio/troubleshooting.md)
 - [⭐ Important CKAD Topics](cka-helm-istio/important-ckad-topics.md)
-- [📚 Other Topics](cka-helm-istio/other-topics)
+- [📚 Other Topics](cka-helm-istio/other-topics.md)
 
 
 ### 📦 Helm
