@@ -48,9 +48,9 @@ It provides a structured and easy-to-navigate reference for Kubernetes administr
 
 
   ### 🌐 Istio Service Mesh
-- [Istio Architecture](#istio-architecture)
-- [Sidecar & Envoy](#sidecar--envoy)
-- [Traffic Management](#traffic-management)
-- [Security (mTLS)](#security-mtls)
-- [Observability](#observability)
+- [Istio Architecture](cka-helm-istio/istio-introduction.md)
+- [Sidecar & Envoy](cka-helm-istio/pre--requesits.md)
+- [Traffic Management](cka-helm-istio/traffic-management.md)
+- [Security (mTLS)](cka-helm-istio/security.md)
+- [Observability](cka-helm-istio/observability.md)
 ---
