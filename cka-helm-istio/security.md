@@ -6,7 +6,7 @@
 - Security Contexts & Image Security  
 - Network Policies
 
-![K8s Networking](../assets/security.png)
+![K8s Networking](../assets/sec.webp)
 
 
 🔙 [Back to README](../README.md)
