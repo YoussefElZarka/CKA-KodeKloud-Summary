@@ -41,10 +41,10 @@ It provides a structured and easy-to-navigate reference for Kubernetes administr
 
 
 ### 📦 Helm
-- [Helm Basics](#helm-basics)
-- [Charts & Templates](#charts--templates)
-- [Values & Overrides](#values--overrides)
-- [Helm Lifecycle](#helm-lifecycle)
+- [Helm Basics](cka-helm-istio/helm-basics.md)
+- [Charts & Templates](cka-helm-istio/charts--templates.md)
+- [Values & Overrides](cka-helm-istio/values--overrides.md)
+- [Helm Lifecycle](cka-helm-istio/helm-lifecycle.md)
 
 
   ### 🌐 Istio Service Mesh
