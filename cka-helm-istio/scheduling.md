@@ -4,7 +4,11 @@
 - Taints, Tolerations & Affinity  
 - Resource Requests & Limits  
 - DaemonSets, Static Pods  
-- Multiple Schedulers  
+- Multiple Schedulers
+
+
+![K8s Networking](../assets/scheduling.png)
+
 
 🔙 [Back to README](../README.md)
 ---
