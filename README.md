@@ -24,6 +24,8 @@ It provides a structured and easy-to-navigate reference for Kubernetes administr
 
 ## 📑 Table of Contents
 
+### 💾 CKA
+
 - [🌐 Core Concepts](cka-helm-istio/core-concepts.md)
 - [📦 Application Lifecycle Management](cka-helm-istio/application-lifecycle-management.md)
 - [🗂️ Scheduling](cka-helm-istio/scheduling.md)
