@@ -23,6 +23,7 @@ It provides a structured and easy-to-navigate reference for Kubernetes administr
 ---
 
 ## 📑 Table of Contents
+
 - [🌐 Core Concepts](#-core-concepts)
 - [📦 Application Lifecycle Management](#-application-lifecycle-management)
 - [🗂️ Scheduling](#️-scheduling)
@@ -38,119 +39,18 @@ It provides a structured and easy-to-navigate reference for Kubernetes administr
 - [⭐ Important CKAD Topics](#-important-ckad-topics)
 - [📚 Other Topics](#-other-topics)
 
+
+### 📦 Helm
+- [Helm Basics](#helm-basics)
+- [Charts & Templates](#charts--templates)
+- [Values & Overrides](#values--overrides)
+- [Helm Lifecycle](#helm-lifecycle)
+
+
+  ### 🌐 Istio Service Mesh
+- [Istio Architecture](#istio-architecture)
+- [Sidecar & Envoy](#sidecar--envoy)
+- [Traffic Management](#traffic-management)
+- [Security (mTLS)](#security-mtls)
+- [Observability](#observability)
 ---
-
-## 🌐 Core Concepts
-- Cluster Architecture  
-- ETCD Basics & in Kubernetes  
-- API Server, Controller Manager, Scheduler  
-- Kubelet & Kube Proxy  
-- Pods, ReplicaSets, Deployments  
-- Namespaces & Resource Quotas  
-- Services (ClusterIP, NodePort, LoadBalancer)  
-- Imperative vs Declarative
-  
-![Cluster Architecture](assets/cluster%20arch.png)
----
-
-## 📦 Application Lifecycle Management
-- Rolling Updates & Rollbacks  
-- Docker Entrypoint & CMD  
-- Commands & Args in Kubernetes  
-- Environment Variables  
-- ConfigMaps & Secrets  
-- Multi-Container Pods & Init Containers
-  
-![Rolling Update](assets/rolling%20update.png)
-
----
-
-## 🗂️ Scheduling
-- Manual Scheduling  
-- Labels & Selectors  
-- Taints, Tolerations & Affinity  
-- Resource Requests & Limits  
-- DaemonSets, Static Pods  
-- Multiple Schedulers  
-
----
-
-## 📊 Logging & Monitoring
-- Monitoring Cluster Components  
-- Checking Status & Logs  
-- Managing Application Logs  
-
----
-
-## 🔐 Security
-- Authentication & TLS in Kubernetes  
-- Certificates & API Access  
-- RBAC (Roles, Bindings, ClusterRoles)  
-- Security Contexts & Image Security  
-- Network Policies  
-
----
-
-## 🛠️ Cluster Maintenance
-- Drain, Cordon, Uncordon  
-- Upgrades & Versioning  
-- Backup & Restore  
-
----
-
-## 💾 Storage
-- Docker Storage & Volume Drivers  
-- Container Storage Interface (CSI)  
-- Volumes, PVs & PVCs  
-
----
-
-## 🌉 Networking
-- Networking Basics (DNS, CNI, Docker)  
-- Cluster & Pod Networking  
-- CNI Plugins (Weave, Flannel, etc.)  
-- Service Networking & CoreDNS  
-- Ingress Controller
-  
-![K8s Networking](assets/k8s%20networking.png)
-
----
-
-## ⚙️ Install K8s the Hard Way
-- Cluster Design & HA  
-- ETCD & Control Plane Setup  
-- TLS Bootstrapping  
-- Remote Access & Networking  
-- Deploying CoreDNS  
-
----
-
-## ⚡ Install K8s with Kubeadm
-- Quick setup with Kubeadm  
-- Demo deployment  
-
----
-
-## ✅ End-to-End Tests
-- Run & Analyze Tests with Kubetest  
-- Smoke Testing  
-
----
-
-## 🩺 Troubleshooting
-- Application Failures  
-- Control Plane Failures  
-- Worker Node Failures  
-
----
-
-## ⭐ Important CKAD Topics
-- Readiness & Liveness Probes  
-- Jobs & CronJobs  
-- StatefulSets & StorageClasses  
-- Headless Services  
-
----
-
-## 📚 Other Topics
-- Advanced Kubectl (JSONPath Queries)  
