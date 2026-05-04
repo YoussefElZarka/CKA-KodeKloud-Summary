@@ -8,5 +8,5 @@
 - Services (ClusterIP, NodePort, LoadBalancer)  
 - Imperative vs Declarative
   
-![Cluster Architecture](assets/cluster%20arch.png)
+![Cluster Architecture](../assets/cluster%20arch.png)
 ---
