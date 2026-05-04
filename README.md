@@ -1,5 +1,5 @@
 
-![Cluster Architecture](assets/cka.jpg)
+![Cluster Architecture](assets/CKA.jpg)
 
 <h1 align="center">✨ Kubernetes CKA Course Summary ✨</h1>
 
