@@ -1,10 +1,11 @@
 
 ![Cluster Architecture](assets/CKA.jpg)
 
-<h1 align="center">✨ Kubernetes CKA Course Summary ✨</h1>
+<h1 align="center">✨ Kubernetes Course Summary ✨</h1>
 
 <p align="center">
-A concise and practical summary of the <strong>Certified Kubernetes Administrator (CKA)</strong> exam based on <a href="https://kodekloud.com/">KodeKloud</a>, designed to serve as a quick reference for study or revision. This repository organizes concepts, diagrams, and examples in a clear and structured manner.
+A concise and practical DevOps-focused knowledge base covering <strong>CKA</strong>, <strong>Helm</strong>, and <strong>Istio Service Mesh</strong>, based on <a href="https://kodekloud.com/">KodeKloud</a>.
+It provides a structured and easy-to-navigate reference for Kubernetes administration, application deployment with Helm, and advanced traffic management and observability using Istio.
 </p>
 
 
