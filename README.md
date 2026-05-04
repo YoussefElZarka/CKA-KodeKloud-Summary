@@ -25,19 +25,19 @@ It provides a structured and easy-to-navigate reference for Kubernetes administr
 ## 📑 Table of Contents
 
 - [🌐 Core Concepts](cka-helm-istio/core-concepts.md)
-- [📦 Application Lifecycle Management](#-application-lifecycle-management)
-- [🗂️ Scheduling](#️-scheduling)
-- [📊 Logging & Monitoring](#-logging--monitoring)
-- [🔐 Security](#-security)
-- [🛠️ Cluster Maintenance](#️-cluster-maintenance)
-- [💾 Storage](#-storage)
-- [🌉 Networking](#-networking)
-- [⚙️ Install K8s the Hard Way](#️-install-k8s-the-hard-way)
-- [⚡ Install K8s with Kubeadm](#-install-k8s-with-kubeadm)
-- [✅ End-to-End Tests](#-end-to-end-tests)
-- [🩺 Troubleshooting](#-troubleshooting)
-- [⭐ Important CKAD Topics](#-important-ckad-topics)
-- [📚 Other Topics](#-other-topics)
+- [📦 Application Lifecycle Management](cka-helm-istio/application-lifecycle-management)
+- [🗂️ Scheduling](cka-helm-istio/scheduling)
+- [📊 Logging & Monitoring](cka-helm-istio/logging--monitoring)
+- [🔐 Security](cka-helm-istio/security)
+- [🛠️ Cluster Maintenance](cka-helm-istio/cluster-maintenance)
+- [💾 Storage](cka-helm-istio/storage)
+- [🌉 Networking](cka-helm-istio/networking)
+- [⚙️ Install K8s the Hard Way](cka-helm-istio/install-k8s-the-hard-way)
+- [⚡ Install K8s with Kubeadm](cka-helm-istio/install-k8s-with-kubeadm)
+- [✅ End-to-End Tests](cka-helm-istio/end-to-end-tests)
+- [🩺 Troubleshooting](cka-helm-istio/troubleshooting)
+- [⭐ Important CKAD Topics](cka-helm-istio/important-ckad-topics)
+- [📚 Other Topics](cka-helm-istio/other-topics)
 
 
 ### 📦 Helm
