@@ -3,7 +3,10 @@
 - ETCD & Control Plane Setup  
 - TLS Bootstrapping  
 - Remote Access & Networking  
-- Deploying CoreDNS  
+- Deploying CoreDNS
+
+![K8s Networking](../assets/hard.jpg)
+
 
 🔙 [Back to README](../README.md)
 ---
