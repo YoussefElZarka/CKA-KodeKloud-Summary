@@ -49,7 +49,7 @@ It provides a structured and easy-to-navigate reference for Kubernetes administr
 - [Helm Lifecycle](cka-helm-istio/helm-lifecycle.md)
 
 
-  ### 🌐 Istio Service Mesh
+### 🌐 Istio Service Mesh
 - [Istio Architecture](cka-helm-istio/istio-introduction.md)
 - [Sidecar & Envoy](cka-helm-istio/pre--requesits.md)
 - [Traffic Management](cka-helm-istio/traffic-management.md)
